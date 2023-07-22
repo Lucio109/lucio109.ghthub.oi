@@ -1,0 +1,51 @@
+/* Color de fuente */
+p {
+    color: #000000; /* Utiliza un color en hexadecimal */
+  }
+  
+  /* Tamaño de fuente */
+  h1 {
+    font-size: 40px; /* Utiliza una medida de tamaño */
+  }
+  
+  /* Alinear el texto */
+  p {
+    text-align: justify; /* Utiliza la palabra clave para justificar el texto */
+  }
+  
+  /* Títulos subrayados */
+  h2 {
+    text-decoration: underline; /* Utiliza la palabra clave para subrayar */
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  .redes-sociales {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  .redes-sociales a {
+    display: inline-block;
+    margin: 0 10px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  .referencia img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }  
+  
+ 
+  
